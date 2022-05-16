@@ -1,0 +1,69 @@
+body>header {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+body>footer>p {
+    background-color: cornflowerblue;
+    padding: 16px;
+    color: white;
+    text-align: center;
+}
+
+html,
+body,
+.container {
+    height: 100%;
+    min-height: 100%;
+}
+
+#left-nav-1 {
+    list-style: none;
+}
+
+body>main>article {
+    width: 70%;
+    margin: auto;
+}
+
+.form-1 {
+    float: left;
+    width: 25%;
+    height: 30%;
+    background-color: orange;
+}
+
+.latest-1 {
+    float: left;
+    width: 25%;
+    height: 30%;
+    background-color: yellow;
+}
+
+.latest-heading {
+    float: right;
+    width: 50%;
+    height: 25%;
+    background-color: pink;
+}
+
+.pic-1 {
+    float: right;
+    width: 50%;
+    height: 25%;
+    background-color: red;
+}
+
+.pic-2 {
+    float: right;
+    width: 50%;
+    height: 25%;
+    background-color: green;
+}
+
+.pic-3 {
+    float: right;
+    width: 50%;
+    height: 25%;
+    background-color: blue;
+}
